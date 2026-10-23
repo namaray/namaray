@@ -1,10 +1,6 @@
 ### Hi, I'm Namare Shakib Angkon 👋
 
-Final-year Computer Science & Engineering student at **United International University**, Dhaka. I build **accessible technology** where HCI meets hardware and AI, and I test it with the people who will use it.
-
-🔭 **Right now:** building **ARGUS**, on-device AI smart glasses that help visually impaired people navigate (my thesis).
-
-🎯 **Looking for:** research and engineering roles in HCI, accessibility and applied AI.
+I have a Bachelor's in Computer Science & Engineering from **United International University**, Dhaka. I build **accessible technology** where HCI meets hardware and AI, and I test it with the people who will use it.
 
 #### Selected work
 
