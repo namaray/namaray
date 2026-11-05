@@ -1,4 +1,4 @@
-### Hi, I'm Namare Shakib Angkon 👋
+### Hi, I'm Namare Shakib Angkon
 
 I have a Bachelor's in Computer Science & Engineering from **United International University**, Dhaka. I work in HCI, building **accessible technology**, from AI-powered embedded hardware to web apps, and testing it with the people who'll use it.
 
